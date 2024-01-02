@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 https://reactjs-worldwise.onrender.com
 ### fakeapiserver branch
 https://reactjs-worldwise-nodejs-fake-server-api.onrender.com/cities
-in case of run locally, json-server can be used with: npm run server and npm run dev
+in the case of running locally, json-server can be used with: npm run server and npm run dev
