@@ -33,7 +33,6 @@ Context API
 Leaflet
 CSS Modules
 
-<img src="project screenshots/01.png" alt="drawing"/>
 <img src="project screenshots/1.png" alt="drawing"/>
 <img src="project screenshots/2.png" alt="drawing"/>
 <img src="project screenshots/3.png" alt="drawing"/>
